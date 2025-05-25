@@ -1,4 +1,4 @@
-############# Project Structure and Comments ######################
+# ############# Project Structure and Comments ######################
  
 The Workspace folder name is 'pBitBanging' in which I will add multiple
 devices bit banging projects with different communication protocols.
